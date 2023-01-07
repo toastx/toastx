@@ -12,12 +12,7 @@
   <img src="https://img.shields.io/badge/-Blockchain-blue" alt="Blockchain"/>&nbsp;
   <img src="https://img.shields.io/badge/-Solana-blueviolet" alt="Solana"/>&nbsp;
   
-   <a href ="https://www.instagram.com/highonpatanjali/">
-    <img src="https://img.shields.io/badge/-Instagram-violet?style=flat&logo=instagram" alt="Instagram"/>&nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/dipeshnv/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>&nbsp;
-</a> 
+   
   
   
   
