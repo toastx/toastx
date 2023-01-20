@@ -49,7 +49,7 @@
   <a href = "https://www.hikari-py.dev">
   <img src="https://www.hikari-py.dev/logo.png" width="40" height="40"/>&nbsp;&nbsp;
   </a>
-  <a href = "https://www.hikari-py.dev">
+  <a href = "https://solana.com">
   <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="40" height="40"/>&nbsp;&nbsp;
   </a>
   <br>
