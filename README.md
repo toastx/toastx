@@ -31,25 +31,25 @@
   <a href = "https://www.python.org">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/"https://www.python.org">&nbsp;&nbsp;
     </a>
-  <a>
+  <a href = "https://www.rust-lang.org">
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="40" height="40"/>&nbsp;&nbsp;
   </a>
-  <a>
+  <a href = "https://www.javascript.com">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40"/>&nbsp;&nbsp;
   </a>
-  <a>
+  <a href = "https://html.com">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;&nbsp;
   </a>
-  <a>
+  <a href = "https://www.mysql.com">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>&nbsp;&nbsp;
   </a>
-  <a>
+  <a href = "https://www.selenium.dev">
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40" height="40"/>&nbsp;&nbsp;
   </a>
-  <a>
+  <a href = "https://www.hikari-py.dev">
   <img src="https://www.hikari-py.dev/logo.png" width="40" height="40"/>&nbsp;&nbsp;
   </a>
-  <a>
+  <a href = "https://www.hikari-py.dev">
   <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="40" height="40"/>&nbsp;&nbsp;
   </a>
   <br>
