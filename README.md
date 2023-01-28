@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/badge/-Blockchain-blue" alt="Blockchain"/>&nbsp;
   <img src="https://img.shields.io/badge/-Solana-blueviolet" alt="Solana"/>&nbsp;
   
+  <a href = "https://leetcode.com/toastx/">
+  <img src="https://img.shields.io/badge/-LeetCode-CC7722" alt = "LeetCode">&nbsp;&nbsp;
+    </a>
+  
+  
    
   
   
