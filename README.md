@@ -29,7 +29,7 @@
  
  ---
  <div id="header" align="left">
-  ### Blogs and Articles:
+ ### Blogs and Articles:
   ➡️ [Youtube Automation using Python and Selenium](https://www.geeksforgeeks.org/search-and-play-youtube-music-with-selenium-in-python)
   
   </div>
