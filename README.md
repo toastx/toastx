@@ -31,7 +31,12 @@
  <div id = "header" align = "center">
  
  ### 🖋️Articles
-  ➡️ [***Youtube Automation using Python and Selenium***](https://www.geeksforgeeks.org/search-and-play-youtube-music-with-selenium-in-python)
+ Python
+  ➡️ [***Geeks for geeks***](https://auth.geeksforgeeks.org/user/dipu6019/articles?utm_source=geeksforgeeks&utm_medium=article_author&utm_campaign=auth_user)
+
+ Solana
+  ➡️ [***HashNode***](https://toastx.hashnode.dev)
+ 
   
   </div>
   
