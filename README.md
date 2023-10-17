@@ -1,12 +1,14 @@
 
 <div id="header" align="center">
-  <img src="https://pbs.twimg.com/media/E-OFkpyVkAMAGKB?format=png&name=360x360" width="250"/>
+  <img src=https://github.com/toastx/toastx/assets/85751209/3297f581-43db-45bd-bae3-913c77382bfc width="250"/>
 </div>
 <div align = "center">
    
   # Toastx
   
-  🎓 **Sophomore at [VIT Chennai](https://chennai.vit.ac.in)**
+  `Toastx here, an aspiring software developer, python geek and blockchain enthusiast (especially Solana).`
+
+  🎓 **Junior at [VIT Chennai](https://chennai.vit.ac.in)**
  
   <img src="https://img.shields.io/badge/-Python-important" alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/-Blockchain-blue" alt="Blockchain"/>&nbsp;
@@ -16,36 +18,25 @@
   <img src="https://img.shields.io/badge/-LeetCode-CC7722" alt = "LeetCode">&nbsp;&nbsp;
     </a>
   
-  
-   
-  
-  
-  
-  <img src="https://pbs.twimg.com/media/E9uj0NDX0AAPE9g?format=png&name=360x360" width ="50"/>&nbsp;
-  
-  
-  
  </div>
  
- ---
+ 
  <div id = "header" align = "center">
  
- ### 🖋️Articles
+ <h2>🖋️Articles </h2>
+ 
  Python
   ➡️ [***Geeks for geeks***](https://auth.geeksforgeeks.org/user/dipu6019/articles?utm_source=geeksforgeeks&utm_medium=article_author&utm_campaign=auth_user)
 
  Solana
   ➡️ [***HashNode***](https://toastx.hashnode.dev)
- 
-  
   </div>
-  
-  ---
   
   
  <div id="header" align="center">
-  
- ### 🛠️Languages and Frameworks:
+
+<h2>🛠️Languages and Frameworks</h2>
+
  
 <div>
   <a href = "https://www.python.org">
@@ -73,18 +64,45 @@
   <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="40" height="40"/>&nbsp;&nbsp;
   </a>
   <br>
-  
-  </br>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toastx&layout=compact&theme=tokyonight)
-  
-  
-</div>
 </div>
 
----
+<h2>Just Code</h2>
+<table>
+  <tr>
+     <td width="50%" valign="center">
+      <h6>🖥️ Github Language Stats</h6>
+      <a href="https://www.codewars.com/users/bkpecho">
+        <img
+          title="github language stats"
+          alt="toastx github language stats Stats Card"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=toastx&layout=compact&theme=tokyonight"
+        />
+      </a>
+    </td>
+    <td width="50%" valign="center">
+      <h6>📚 LeetCode Stats Card</h6>
+      <p align="center">
+        <a href="https://leetcode.com/toastx/">
+          <img
+            title="LeetCode Stats Card"
+            alt="toastx's LeetCode Stats Card"
+            src="https://leetcard.jacoblin.cool/toastx?theme=dark&font=Petrona&ext=heatmap&hide=ranking"
+          />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+<h2>🐱‍🐉 Holopin Badges</h2>
+ 
+[![An image of @toastx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/toastx)](https://holopin.io/@toastx)
+ 
+
+
 <div>
-
 
 </div>
 
