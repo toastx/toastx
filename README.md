@@ -71,11 +71,10 @@
   <tr>
      <td width="50%" valign="center">
       <h6>🖥️ Github Language Stats</h6>
-      
+      <a>
         <img
           title="github language stats"
-          alt="toastx github language stats Stats Card"
-<a>          src="https://github-readme-stats.vercel.app/api/top-langs/?username=toastx&layout=compact&theme=tokyonight"
+          alt="toastx github language stats Stats Card"       src="https://github-readme-stats.vercel.app/api/top-langs/?username=toastx&layout=compact&theme=tokyonight"
         />
 </a>
     </td>
