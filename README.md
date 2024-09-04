@@ -6,9 +6,9 @@
    
   # Toastx
   
-  `Toastx here, an aspiring software developer, python geek and blockchain enthusiast (especially Solana).`
-
-  🎓 **Junior at [VIT Chennai](https://chennai.vit.ac.in)**
+  `Toastx here, an aspiring blockchain developer, python geek and a mathematics nerd`
+  
+  🎓 **Senior at [VIT Chennai](https://chennai.vit.ac.in)**
  
   <img src="https://img.shields.io/badge/-Python-important" alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/-Blockchain-blue" alt="Blockchain"/>&nbsp;
