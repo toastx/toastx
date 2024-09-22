@@ -28,10 +28,6 @@
  Python
   ➡️ [***Geeks for geeks***](https://auth.geeksforgeeks.org/user/dipu6019/articles?utm_source=geeksforgeeks&utm_medium=article_author&utm_campaign=auth_user)
 
- Solana
-  ➡️ [***HashNode***](https://toastx.hashnode.dev)
-  </div>
-  
   
  <div id="header" align="center">
 
