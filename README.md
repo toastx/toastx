@@ -6,7 +6,7 @@
    
   # Toastx
   
-  `Toastx here, an aspiring blockchain developer, python geek and a mathematics nerd`
+  `Toastx here, a blockchain developer, python geek and a mathematics nerd`
   
   🎓 **Senior at [VIT Chennai](https://chennai.vit.ac.in)**
  
