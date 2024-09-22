@@ -10,13 +10,11 @@
   
   🎓 **Senior at [VIT Chennai](https://chennai.vit.ac.in)**
  
-  <img src="https://img.shields.io/badge/-Python-important" alt="Python"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Blockchain-blue" alt="Blockchain"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Solana-blueviolet" alt="Solana"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Python-violet" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Rustacean-orange" alt="Rustacean"/>&nbsp;
+
   
-  <a href = "https://leetcode.com/toastx/">
-  <img src="https://img.shields.io/badge/-LeetCode-CC7722" alt = "LeetCode">&nbsp;&nbsp;
-    </a>
+
   
  </div>
  
@@ -39,7 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/"https://www.python.org">&nbsp;&nbsp;
     </a>
   <a href = "https://www.rust-lang.org">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40" height="40"/>&nbsp;&nbsp;
   </a>
   <a href = "https://www.javascript.com">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40"/>&nbsp;&nbsp;
