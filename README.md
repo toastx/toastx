@@ -68,7 +68,7 @@
       <a>
         <img
           title="github language stats"
-          alt="toastx github language stats Stats Card"       src="https://github-readme-stats.vercel.app/api/top-langs/?username=toastx&hide=javascript,html,cmake,roff,markdown"
+          alt="toastx github language stats Stats Card"       src="https://github-readme-stats.vercel.app/api/top-langs/?username=toastx&hide=html,css,cmake,roff,markdown,Vim+script"
         />
 </a>
     </td>
