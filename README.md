@@ -9,8 +9,8 @@
   `Toastx here, a blockchain developer, rustacean, python geek and a mathematics nerd`
   
   🎓 **Senior at [VIT Chennai](https://chennai.vit.ac.in)**
- 
- 🛠️ **My techstack**
+  
+<h2>🛠️ Techstack </h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Rust-e33b26?style=for-the-badge&logo=Rust&logoColor=white" />
@@ -51,7 +51,7 @@
 
  <div id="header" align="center">
 
-<h2>Just Code</h2>
+<h2>💻 Just Code</h2>
 <table>
   <tr>
      <td width="50%" valign="center">
