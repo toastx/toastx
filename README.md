@@ -6,12 +6,35 @@
    
   # Toastx
   
-  `Toastx here, a blockchain developer, python geek and a mathematics nerd`
+  `Toastx here, a blockchain developer, rustacean, python geek and a mathematics nerd`
   
   🎓 **Senior at [VIT Chennai](https://chennai.vit.ac.in)**
  
-  <img src="https://img.shields.io/badge/-Python-violet" alt="Python"/>&nbsp;
-  <img src="https://img.shields.io/badge/Rustacean-orange" alt="Rustacean"/>&nbsp;
+ 🛠️ **My techstack**
+
+<p align="center">
+<img src="https://img.shields.io/badge/Rust-e33b26?style=for-the-badge&logo=Rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Typescript-154360?style=for-the-badge&logo=TypeScript&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  
+</br>
+<img src="https://img.shields.io/badge/Solana-8E44AD?style=for-the-badge&logo=solana&logoColor=white"/>
+<img src="https://img.shields.io/badge/StarkNet-000000?style=for-the-badge&logo=starknet&logoColor=white" />
+</br>
+<img src="https://img.shields.io/badge/Actix--web-1C76C6?style=for-the-badge&logo=actix&logoColor=white">
+<img src="https://img.shields.io/badge/CairoLang-9B59B6?style=for-the-badge&logo=cairometro&logoColor=white" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+<img src="https://img.shields.io/badge/Alloy-E74C3C?style=for-the-badge&logo=alloy&logoColor=white" />
+
+</br>
+
+<img src="https://img.shields.io/badge/Tauri-D9411E?style=for-the-badge&logo=tauri&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Postgres-607D8B?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/MindsDB-333333?style=for-the-badge&logo=mindsdb&logoColor=white" />
+</p>
 
   
 
@@ -26,39 +49,7 @@
  Python
   ➡️ [***Geeks for geeks***](https://auth.geeksforgeeks.org/user/dipu6019/articles?utm_source=geeksforgeeks&utm_medium=article_author&utm_campaign=auth_user)
 
-  
  <div id="header" align="center">
-
-<h2>🛠️Languages and Frameworks</h2>
-
- 
-<div>
-  <a href = "https://www.python.org">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/"https://www.python.org">&nbsp;&nbsp;
-    </a>
-  <a href = "https://www.rust-lang.org">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40" height="40"/>&nbsp;&nbsp;
-  </a>
-  <a href = "https://www.javascript.com">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40"/>&nbsp;&nbsp;
-  </a>
-  <a href = "https://html.com">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;&nbsp;
-  </a>
-  <a href = "https://www.mysql.com">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>&nbsp;&nbsp;
-  </a>
-  <a href = "https://www.selenium.dev">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40" height="40"/>&nbsp;&nbsp;
-  </a>
-  <a href = "https://www.hikari-py.dev">
-  <img src="https://www.hikari-py.dev/logo.png" width="40" height="40"/>&nbsp;&nbsp;
-  </a>
-  <a href = "https://solana.com">
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="40" height="40"/>&nbsp;&nbsp;
-  </a>
-  <br>
-</div>
 
 <h2>Just Code</h2>
 <table>
