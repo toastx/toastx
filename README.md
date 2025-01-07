@@ -8,7 +8,6 @@
   
   `Toastx here, a blockchain developer, rustacean, python geek and a mathematics nerd`
   
-  🎓 **Senior at [VIT Chennai](https://chennai.vit.ac.in)**
   
 <h2>🛠️ Techstack </h2>
 
