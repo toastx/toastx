@@ -63,13 +63,13 @@
 </a>
     </td>
     <td width="50%" valign="center">
-      <h6>📚 LeetCode Stats Card</h6>
+      <h6>📚 Github Stats</h6>
       <p align="center">
         <a href="https://leetcode.com/toastx/">
           <img
-            title="LeetCode Stats Card"
-            alt="toastx's LeetCode Stats Card"
-            src="https://leetcard.jacoblin.cool/toastx?theme=dark&font=Petrona&ext=heatmap&hide=ranking"
+            title="Github Stats Card"
+            alt="toastx's Github Stats Card"
+src="https://github-readme-stats.vercel.app/api?username=toastx&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyo&locale=en&hide_border=false"
           />
         </a>
       </p>
