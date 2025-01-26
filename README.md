@@ -53,26 +53,13 @@
 <h2>💻 Just Code</h2>
 <table>
   <tr>
-     <td width="50%" valign="center">
-      <h6>🖥️ Github Language Stats</h6>
-      <a>
-        <img
-          title="github language stats"
-          alt="toastx github language stats Stats Card"       src="https://github-readme-stats.vercel.app/api/top-langs/?username=toastx&hide=html,css,cmake,roff,markdown,Vim+script"
-        />
-</a>
+    <td>
+      <a href="https://github.com/toastx?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toastx&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,cmake,roff,css&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+      </a>
     </td>
-    <td width="50%" valign="center">
-      <h6>📚 Github Stats</h6>
-      <p align="center">
-        <a href="https://leetcode.com/toastx/">
-          <img
-            title="Github Stats Card"
-            alt="toastx's Github Stats Card"
-src="https://github-readme-stats.vercel.app/api?username=toastx&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyo&locale=en&hide_border=false"
-          />
-        </a>
-      </p>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=toastx&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
