@@ -2,15 +2,23 @@
 
 **Solana Developer | Rustacean | Mathematics Nerd**
 
-## 🛠 Active Build
-* [**Sola AI**](https://solaai.xyz) – AI integration on Solana.
-* [**shredr.fun**](https://shredr.fun) – Privacy utility for the Solana ecosystem.
+* [**Sola AI**](https://solaai.xyz) – Voice AI on Solana.
+* [**shredr.fun**](https://shredr.fun) – Tempmail but for Solana addresses.
 
-## 💻 Technical Stack
+<details>
+<summary>More about me</summary>
+<br />
+
+- I'm focused on the intersection of distributed systems and computational mathematics. 
+- Currently building infrastructure that enables autonomous, voice driven interaction and privacy preserving utilities within the Solana ecosystem.
+- **I also trade crypto and lose money.**
+
+## 💻 Tech
 * **Languages:** Rust, Python, TypeScript.
-* **Blockchain:** Solana (Anchor, Native, Pinocchio).
-* **Specialization:** Computational Mathematics, Distributed Systems, High-Performance Backend.
+* **Specialization:** Smart Contracts,Computational Mathematics, Distributed Systems, High-Performance Backend.
 
 ## 🔬 Interests
 * **Mathematics:** Discrete mathematics, cryptographic primitives, anything involving maths.
 * **Personal:** Gaming, Biking, Chess, Basketball.
+
+</details>
