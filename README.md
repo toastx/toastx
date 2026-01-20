@@ -1,8 +1,3 @@
-<div id="header">
-  <img src=https://github.com/user-attachments/assets/3262a4a2-92b0-4f85-a336-01ad57a545e2 width="150">
-</div>
-
-
 # Toastx
 
 **Solana Developer | Rustacean | Mathematics Nerd**
